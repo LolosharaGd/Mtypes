@@ -1,3 +1,23 @@
 [build-system]
 requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
+
+[project]
+name = "Mtypes"
+version = "0.0.1"
+authors = [
+  { name="LolosharaGd", email="lolikbrawl5@gmail.com" },
+]
+description = "My small library for types like Vector2&3"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/LolosharaGd/Mtypes"
+Issues = "https://github.com/LolosharaGd/Mtypes/issues"
