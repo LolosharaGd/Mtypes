@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/Mtypes.egg-info/PKG-INFO
+src/Mtypes.egg-info/SOURCES.txt
+src/Mtypes.egg-info/dependency_links.txt
+src/Mtypes.egg-info/top_level.txt
+src/Mtypes_LolosharaGd/Mtypes.py
+src/Mtypes_LolosharaGd/__init__.py
